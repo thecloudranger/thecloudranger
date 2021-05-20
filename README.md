@@ -5,7 +5,7 @@
 
 🚧 Views/opinions are my own
 
-#### Who am I?
+### Who am I?
 - ✳️ Tech Enthusiast • Mentor • Speaker
 - 🛠️ 16+ years of building products in tech
 - 🔍 Helping you navigate tech in building products and teams
@@ -13,21 +13,25 @@
 - 🌏 A nomad tied to 🇦🇪 🇮🇳 🇲🇾
 - 🇲🇾 Malaysia, my long-term home
 
-#### 🛠️ Industry Experience In
+<details>
+  <summary>🛠️ Industry Experience In</summary>
+  
 - Telco
 - HR Tech
 - Logistics
 - Tech consulting
 - Cloud platforms
+</details>
 
-#### 🌱 Communities I'm Part of
+### 🌱 Communities I'm Part of
 - 🟣 Champion @ DataCouncil Malaysia  
 - 📦 Co-organiser @ DevOps Malaysia
 - 📦 Ex-organiser @ Google Cloud Developer Community Malaysia
 
-
-#### 🔗 CONNECT WITH ME
+### 🔗 Connect With Me
 http://bit.ly/reach-out-faz
+<details>
+  <summary>If...</summary>
 
 - DM me on LinkedIn link above to know more on how we can work together:
   - 📣 If you’re passionate about speaking on the cloud in tech communities
@@ -35,12 +39,16 @@ http://bit.ly/reach-out-faz
   - 🌱 If you want me to mentor you or your team on engineering best practices, back-end & cloud development, or in general to be an awesome techie
   - 👍 If you want to just connect
 - Or even better, raise an issue on this repo to get in touch!
+</details>
 
 
-#### 🔊 THINGS YOU HEAR ME SAY
+### 🔊 Things you hear me say
 > “Treat your infra as cattle, not pets”
 
-#### 🎤 SPEAKING FREQUENTLY
+
+<details>
+  <summary>🎤 Speaking Frequently</summary>
+
 - 📌 How to use X on AWS
 - 📌 How to DevOps/Scale/Develop on the cloud
 - 📌 Software and Cloud Architecture
@@ -57,12 +65,16 @@ also speaking and helping folks on how to...
 - 📌 Prepare for a Tech interview
 - 📌 Use LinkedIn, Indeed for Job Search
 - 📌 Pitch Yourself to Recruiters
+</details>
 
+<details>
+  <summary>👂 Curious and listening in on...</summary>
 
-#### 👂 ALWAYS LISTENING TO ABOVE TOPICS AND SOME MORE...
 - 📌 Hustling and building startups
 - 📌 Economies of Asia
 - 📌 Halal / Taqwa tech
+  
+</details>
 
 
 
