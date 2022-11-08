@@ -6,12 +6,12 @@
 🚧 Views/opinions are my own
 
 ### Who am I?
-- ✳️ Tech Enthusiast • Mentor • Speaker
-- 🛠️ 16+ years of building products in tech
+- ✳️ Tech Enthusiast • Community builder •  Mentor • Speaker
+- 🛠️ 17+ years of building products in tech
 - 🔍 Helping you navigate tech in building products and teams
-- ☁️ Works @awscloud 🇲🇾
+- ☁️ Works @awscloud 🇦🇪 🇲🇾
 - 🌏 A nomad tied to 🇦🇪 🇮🇳 🇲🇾
-- 🇲🇾 Malaysia, my long-term home
+- 🇲🇾 Malaysia, my long-term home dream
 
 <details>
   <summary>🛠️ Industry Experience In</summary>
@@ -20,10 +20,13 @@
 - HR Tech
 - Logistics
 - Tech consulting
-- Cloud platforms
+- Cloud platforms (containers, serverless)
 </details>
 
 ### 🌱 Communities I'm Part of
+- 🟣 Co-organiser @ Kubernetes Community Day MENA  
+- 📦 Co-organiser @ CNCF Dubai
+- 🟣 Organiser @ MENA Serverless
 - 🟣 Champion @ DataCouncil Malaysia  
 - 📦 Co-organiser @ DevOps Malaysia
 - 📦 Ex-organiser @ Google Cloud Developer Community Malaysia
@@ -70,8 +73,8 @@ also speaking and helping folks on how to...
 <details>
   <summary>👂 Curious and listening in on...</summary>
 
-- 📌 Hustling and building startups
-- 📌 Economies of Asia
+- 📌 Hustling and building products in startups
+- 📌 Economies of Asia and the Middle East North Africa (MENA) region
 - 📌 Halal / Taqwa tech
   
 </details>
