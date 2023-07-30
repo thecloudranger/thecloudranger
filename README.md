@@ -1,6 +1,36 @@
 
 ### Howdy 👋
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Architect%2C+Developer%2C+Advocate+-+18+years+and+counting;Working+with+containers+%F0%9F%93%A6+and+cloud+%E2%98%81%EF%B8%8F&font=Fira%20Code&center=true&width=800&height=60&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+<details open> 
+  <summary><h2>📘 My Recent Projects/Workshops </h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/thecloudranger/pycon_polars101"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=thecloudranger&repo=pycon_polars101&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="pycon_polars101"></a>
+    <a href="https://github.com/thecloudranger/amplify-python-serverless"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=thecloudranger&repo=amplify-python-serverless&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="amplify-python-serverless"></a>
+    <a href="https://github.com/thecloudranger/amplify-flutter-workshop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=thecloudranger&repo=amplify-flutter-workshop&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="amplify-flutter-workshop"></a>
+  </p>
+
+  <a href="https://github.com/thecloudranger?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+
+<details open> 
+  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+
+  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
+  <p align="left">
+    <a href="https://github.com/cdk8s-team/cdk8s"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cdk8s-team&repo=cdk8s&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="cdk8s"></a>
+    <a href="https://github.com/aws-samples/unishop-monolith-to-microservices"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aws-samples&repo=unishop-monolith-to-microservices&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="unishop-monolith-to-microservices"></a>
+  </p>
+</details>
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thecloudranger&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 🚧 Views/opinions are my own
