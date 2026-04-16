@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Architect+%C2%B7+AI+Builder+%C2%B7+Developer+Advocate;21%2B+years+shipping+code+on+AWS%2C+GCP+%26+beyond;Building+AI+agents%2C+RAG+systems+%26+cloud-native+apps&font=Fira+Code&center=true&width=900&height=60&color=4285F4&vCenter=true&pause=1000&size=21" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Architect+%7C+AI+Builder+%7C+Developer+Advocate;21%2B+years+shipping+code+on+AWS%2C+GCP+%26+beyond;Building+AI+agents%2C+RAG+systems+%26+cloud-native+apps&font=Fira+Code&center=true&width=900&height=60&color=4285F4&vCenter=true&pause=1000&size=21" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammedfazalullah/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Fazalullah-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Fazalullah-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -22,24 +20,24 @@
 
 <p align="left">
   <a href="https://github.com/thecloudranger/adk-sdlc-flow">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=thecloudranger&repo=adk-sdlc-flow&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" />
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=thecloudranger&repo=adk-sdlc-flow&theme=tokyonight&hide_border=true&show_icons=false" alt="adk-sdlc-flow" />
   </a>
   <a href="https://github.com/thecloudranger/firebase-pii-reference">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=thecloudranger&repo=firebase-pii-reference&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" />
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=thecloudranger&repo=firebase-pii-reference&theme=tokyonight&hide_border=true&show_icons=false" alt="firebase-pii-reference" />
   </a>
   <a href="https://github.com/thecloudranger/springai-bigquery-rag">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=thecloudranger&repo=springai-bigquery-rag&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" />
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=thecloudranger&repo=springai-bigquery-rag&theme=tokyonight&hide_border=true&show_icons=false" alt="springai-bigquery-rag" />
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/thecloudranger/tao-of-calm-coding">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=thecloudranger&repo=tao-of-calm-coding&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" />
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=thecloudranger&repo=tao-of-calm-coding&theme=tokyonight&hide_border=true&show_icons=false" alt="tao-of-calm-coding" />
   </a>
   <a href="https://github.com/thecloudranger/gcp-pricing-workshop">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=thecloudranger&repo=gcp-pricing-workshop&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" />
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=thecloudranger&repo=gcp-pricing-workshop&theme=tokyonight&hide_border=true&show_icons=false" alt="gcp-pricing-workshop" />
   </a>
   <a href="https://github.com/thecloudranger/NetSim-Explore">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=thecloudranger&repo=NetSim-Explore&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" />
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=thecloudranger&repo=NetSim-Explore&theme=tokyonight&hide_border=true&show_icons=false" alt="NetSim-Explore" />
   </a>
 </p>
 
@@ -91,21 +89,15 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="thecloudranger's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=thecloudranger&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="192px"/>
-      </a>
+      <img alt="thecloudranger's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=thecloudranger&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="192px"/>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="thecloudranger's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecloudranger&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/>
-      </a>
+      <img alt="thecloudranger's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecloudranger&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/>
     </td>
   </tr>
 </table>
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img alt="thecloudranger's streak" src="https://streak-stats.demolab.com/?user=thecloudranger&theme=tokyonight&hide_border=true"/>
-</a>
+<img alt="thecloudranger's streak" src="https://streak-stats.demolab.com/?user=thecloudranger&theme=tokyonight&hide_border=true"/>
 
 ---
 
